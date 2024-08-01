@@ -22,9 +22,9 @@ Abstract:
  after the day of result publication. In summary, our project enhances the overall lottery
  experience in Kerala by introducing a secure and transparent system.
 
- Technology Stack: 
-         -> for app: flutter, firebase
-         -> for website: html, css, javascript
-         -> Blockchain technology
+ Technology Stack: <br/>
+         -> for app: flutter, firebase <br/>
+         -> for website: html, css, javascript <br/>
+         -> Blockchain technology <br/>
        
  The code for website is given in the repository - https://github.com/hridyamathew/secureWin_officialsPage
